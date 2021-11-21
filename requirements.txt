@@ -2,7 +2,7 @@ altair==3.0.1
 appnope==0.1.0
 attrs==19.1.0
 backcall==0.1.0
-bleach==3.1.1
+bleach==3.3.0
 certifi==2019.3.9
 chardet==3.0.4
 cycler==0.10.0
@@ -15,13 +15,13 @@ ipykernel==5.1.0
 ipython==7.5.0
 ipython-genutils==0.2.0
 jedi==0.13.3
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.13.2
 jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyter-server==0.0.5
-jupyterlab==1.0.0a3
+jupyter-server==1.1.1
+jupyterlab==1.2.21
 jupyterlab-pygments==0.1.0
 jupyterlab-server==0.3.0
 kiwisolver==1.1.0
@@ -30,7 +30,7 @@ matplotlib==3.0.3
 mistune==0.8.4
 nbconvert==5.5.0
 nbformat==4.4.0
-notebook==5.7.8
+notebook==6.1.5
 numpy==1.16.3
 pandas==0.24.2
 pandocfilters==1.4.2
@@ -42,7 +42,7 @@ plotly-express==0.2.2
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
-Pygments==2.4.2
+Pygments==2.7.4
 pyparsing==2.4.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
@@ -62,7 +62,7 @@ testpath==0.4.2
 toolz==0.9.0
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.25.2
+urllib3==1.26.5
 vega-datasets==0.7.0
 voila==0.1.2
 wcwidth==0.1.7
